@@ -1,0 +1,10 @@
+.header {
+  background-color: cadetblue;
+  color: black;
+  padding: 30px;
+}
+
+.header h1, .header h2 {
+  margin: 0;
+}
+
